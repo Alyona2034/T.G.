@@ -1,0 +1,12 @@
+﻿  graph.cpp
+C:\Users\Алёна\source\repos\TG4\TG4\graph.cpp(34,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Алёна\source\repos\TG4\TG4\graph.cpp(36,27): warning C4018: <: несоответствие типов со знаком и без знака
+  algs.cpp
+C:\Users\Алёна\source\repos\TG4\TG4\algs.cpp(69,63): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Алёна\source\repos\TG4\TG4\algs.cpp(203,31): warning C4018: <: несоответствие типов со знаком и без знака
+  TG4.cpp
+C:\Users\Алёна\source\repos\TG4\TG4\algs.cpp(69,63): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Алёна\source\repos\TG4\TG4\algs.cpp(203,31): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+C:\Users\Алёна\source\repos\TG4\TG4\graph.cpp(78): warning C4715: Graph::weight: значение возвращается не при всех путях выполнения
+  TG4.vcxproj -> C:\Users\Алёна\source\repos\TG4\Debug\TG4.exe

@@ -1,0 +1,44 @@
+﻿  algs.cpp
+C:\Users\Алёна\source\repos\TG6\TG6\algs.cpp(19,50): warning C4244: аргумент: преобразование "double" в "const _Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Алёна\source\repos\TG6\TG6\algs.cpp(70,49): warning C4244: аргумент: преобразование "double" в "const _Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Алёна\source\repos\TG6\TG6\algs.cpp(118,49): warning C4244: аргумент: преобразование "double" в "const _Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+  graph.cpp
+C:\Users\Алёна\source\repos\TG6\TG6\graph.cpp(34,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Алёна\source\repos\TG6\TG6\graph.cpp(36,27): warning C4018: <: несоответствие типов со знаком и без знака
+  TG6.cpp
+C:\Users\Алёна\source\repos\TG6\TG6\algs.cpp(19,50): warning C4244: аргумент: преобразование "double" в "const _Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Алёна\source\repos\TG6\TG6\algs.cpp(70,49): warning C4244: аргумент: преобразование "double" в "const _Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Алёна\source\repos\TG6\TG6\algs.cpp(118,49): warning C4244: аргумент: преобразование "double" в "const _Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Алёна\source\repos\TG6\TG6\TG6.cpp(230,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Алёна\source\repos\TG6\TG6\TG6.cpp(241,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Алёна\source\repos\TG6\TG6\TG6.cpp(262,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Алёна\source\repos\TG6\TG6\TG6.cpp(280,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Алёна\source\repos\TG6\TG6\TG6.cpp(302,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Алёна\source\repos\TG6\TG6\TG6.cpp(320,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+C:\Users\Алёна\source\repos\TG6\TG6\graph.cpp(78): warning C4715: Graph::weight: значение возвращается не при всех путях выполнения
+  TG6.vcxproj -> C:\Users\Алёна\source\repos\TG6\Debug\TG6.exe

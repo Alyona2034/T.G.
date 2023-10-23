@@ -1,0 +1,8 @@
+﻿  algD.cpp
+  graph.cpp
+C:\Users\Алёна\source\repos\TG5\TG5\graph.cpp(34,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Алёна\source\repos\TG5\TG5\graph.cpp(36,27): warning C4018: <: несоответствие типов со знаком и без знака
+  TG5.cpp
+  Создание кода...
+C:\Users\Алёна\source\repos\TG5\TG5\graph.cpp(78): warning C4715: Graph::weight: значение возвращается не при всех путях выполнения
+  TG5.vcxproj -> C:\Users\Алёна\source\repos\TG5\Debug\TG5.exe

@@ -1,0 +1,48 @@
+﻿  algJ.cpp
+C:\Users\Алёна\source\repos\TG7\TG7\algJ.cpp(29,38): warning C4244: аргумент: преобразование "double" в "const _Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Алёна\source\repos\TG7\TG7\algJ.cpp(66,35): warning C4244: аргумент: преобразование "double" в "const _Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Алёна\source\repos\TG7\TG7\algJ.cpp(100,86): warning C4244: аргумент: преобразование "double" в "const _Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+  graph.cpp
+C:\Users\Алёна\source\repos\TG7\TG7\graph.cpp(34,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Алёна\source\repos\TG7\TG7\graph.cpp(36,27): warning C4018: <: несоответствие типов со знаком и без знака
+  TG7.cpp
+C:\Users\Алёна\source\repos\TG7\TG7\algJ.cpp(29,38): warning C4244: аргумент: преобразование "double" в "const _Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Алёна\source\repos\TG7\TG7\algJ.cpp(66,35): warning C4244: аргумент: преобразование "double" в "const _Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Алёна\source\repos\TG7\TG7\algJ.cpp(100,86): warning C4244: аргумент: преобразование "double" в "const _Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Алёна\source\repos\TG7\TG7\TG7.cpp(116,79): warning C4244: аргумент: преобразование "double" в "const _Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Алёна\source\repos\TG7\TG7\TG7.cpp(143,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Алёна\source\repos\TG7\TG7\TG7.cpp(145,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Алёна\source\repos\TG7\TG7\TG7.cpp(166,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Алёна\source\repos\TG7\TG7\TG7.cpp(168,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Алёна\source\repos\TG7\TG7\TG7.cpp(21,6): warning C4101: startVertex: неиспользованная локальная переменная
+  Создание кода...
+C:\Users\Алёна\source\repos\TG7\TG7\graph.cpp(78): warning C4715: Graph::weight: значение возвращается не при всех путях выполнения
+  TG7.vcxproj -> C:\Users\Алёна\source\repos\TG7\Debug\TG7.exe

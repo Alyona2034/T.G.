@@ -1,0 +1,10 @@
+﻿  algFF.cpp
+C:\Users\Алёна\source\repos\TG10\TG10\algFF.cpp(86,30): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  graph.cpp
+C:\Users\Алёна\source\repos\TG10\TG10\graph.cpp(34,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Алёна\source\repos\TG10\TG10\graph.cpp(36,27): warning C4018: <: несоответствие типов со знаком и без знака
+  TG10.cpp
+C:\Users\Алёна\source\repos\TG10\TG10\algFF.cpp(86,30): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+C:\Users\Алёна\source\repos\TG10\TG10\graph.cpp(78): warning C4715: Graph::weight: значение возвращается не при всех путях выполнения
+  TG10.vcxproj -> C:\Users\Алёна\source\repos\TG10\Debug\TG10.exe

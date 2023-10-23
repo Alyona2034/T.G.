@@ -1,0 +1,36 @@
+﻿  alg_fw.cpp
+C:\Users\Алёна\source\repos\TG1\TG1\alg_fw.cpp(12,71): warning C4244: аргумент: преобразование "double" в "const _Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Алёна\source\repos\TG1\TG1\alg_fw.cpp(125,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Алёна\source\repos\TG1\TG1\alg_fw.cpp(139,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\utility(186,54): warning C4244: инициализация: преобразование "_Ty" в "_Ty2", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty2=int
+          ]
+C:\Users\Алёна\source\repos\TG1\TG1\alg_fw.cpp(110): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::pair<int,int>::pair<int,double,0>(_Other1 &&,_Other2 &&) noexcept"
+          with
+          [
+              _Other1=int,
+              _Other2=double
+          ]
+C:\Users\Алёна\source\repos\TG1\TG1\alg_fw.cpp(110): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::pair<int,int>::pair<int,double,0>(_Other1 &&,_Other2 &&) noexcept"
+          with
+          [
+              _Other1=int,
+              _Other2=double
+          ]
+  graph.cpp
+C:\Users\Алёна\source\repos\TG1\TG1\graph.cpp(34,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Алёна\source\repos\TG1\TG1\graph.cpp(36,27): warning C4018: <: несоответствие типов со знаком и без знака
+  TG1.cpp
+  Создание кода...
+C:\Users\Алёна\source\repos\TG1\TG1\graph.cpp(78): warning C4715: Graph::weight: значение возвращается не при всех путях выполнения
+  TG1.vcxproj -> C:\Users\Алёна\source\repos\TG1\Debug\TG1.exe

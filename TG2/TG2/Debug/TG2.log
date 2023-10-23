@@ -1,0 +1,12 @@
+﻿  graph.cpp
+C:\Users\Алёна\source\repos\TG2\TG2\graph.cpp(34,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Алёна\source\repos\TG2\TG2\graph.cpp(36,27): warning C4018: <: несоответствие типов со знаком и без знака
+  bfs.cpp
+  TG2.cpp
+C:\Users\Алёна\source\repos\TG2\TG2\TG2.cpp(124,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Алёна\source\repos\TG2\TG2\TG2.cpp(173,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Алёна\source\repos\TG2\TG2\TG2.cpp(243,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Алёна\source\repos\TG2\TG2\TG2.cpp(292,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+C:\Users\Алёна\source\repos\TG2\TG2\graph.cpp(78): warning C4715: Graph::weight: значение возвращается не при всех путях выполнения
+  TG2.vcxproj -> C:\Users\Алёна\source\repos\TG2\Debug\TG2.exe
